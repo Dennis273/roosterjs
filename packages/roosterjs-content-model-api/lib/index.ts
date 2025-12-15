@@ -15,6 +15,7 @@ export { setBackgroundColor } from './publicApi/segment/setBackgroundColor';
 export { setFontName } from './publicApi/segment/setFontName';
 export { setFontSize } from './publicApi/segment/setFontSize';
 export { setTextColor } from './publicApi/segment/setTextColor';
+export { setLetterSpacing } from './publicApi/segment/setLetterSpacing';
 export { changeFontSize } from './publicApi/segment/changeFontSize';
 export { applySegmentFormat } from './publicApi/segment/applySegmentFormat';
 export { changeCapitalization } from './publicApi/segment/changeCapitalization';
